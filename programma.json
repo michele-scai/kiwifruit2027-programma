@@ -1,0 +1,324 @@
+{
+ "nota": "Times are indicative and may change. The programme is updated progressively.",
+ "giorni": [
+  {
+   "id": "d0",
+   "etichetta": "2-4 Sept",
+   "sotto": "Pre-congress"
+  },
+  {
+   "id": "d1",
+   "etichetta": "5 Sept",
+   "sotto": "Day 1"
+  },
+  {
+   "id": "d2",
+   "etichetta": "6 Sept",
+   "sotto": "Day 2"
+  },
+  {
+   "id": "d3",
+   "etichetta": "7 Sept",
+   "sotto": "Day 3"
+  },
+  {
+   "id": "d4",
+   "etichetta": "8 Sept",
+   "sotto": "Day 4"
+  },
+  {
+   "id": "d5",
+   "etichetta": "9 Sept",
+   "sotto": "Day 5"
+  },
+  {
+   "id": "d6",
+   "etichetta": "10 Sept",
+   "sotto": "Day 6"
+  }
+ ],
+ "sale": [
+  "Symposium",
+  "Kiwifruit Innovation Festival"
+ ],
+ "tipi": [
+  {
+   "id": "plenaria",
+   "nome": "Plenary sessions",
+   "colore": "#2E563B",
+   "testo": "#FFFFFF"
+  },
+  {
+   "id": "cerimonia",
+   "nome": "Welcome / Ceremony",
+   "colore": "#93C15D",
+   "testo": "#1D1D1B"
+  },
+  {
+   "id": "escursione",
+   "nome": "Tour / Excursion",
+   "colore": "#5593D5",
+   "testo": "#FFFFFF"
+  },
+  {
+   "id": "sociale",
+   "nome": "Social event",
+   "colore": "#D74B59",
+   "testo": "#FFFFFF"
+  },
+  {
+   "id": "riunione",
+   "nome": "Meeting",
+   "colore": "#6EC1E4",
+   "testo": "#1D1D1B"
+  },
+  {
+   "id": "festival",
+   "nome": "Innovation Festival",
+   "colore": "#FAAE3F",
+   "testo": "#1D1D1B"
+  },
+  {
+   "id": "pausa",
+   "nome": "Break",
+   "colore": "#E9DFD1",
+   "testo": "#5A5348"
+  }
+ ],
+ "sessioni": [
+  {
+   "giorno": "d0",
+   "sala": "Symposium",
+   "inizio": "09:00",
+   "fine": "18:00",
+   "tipo": "escursione",
+   "titolo": "Pre-congress Tour",
+   "presiede": "",
+   "dettagli": "Lazio region, Italy.",
+   "interventi": "",
+   "indicativo": true,
+   "orarioTesto": "2-4 Sept"
+  },
+  {
+   "giorno": "d1",
+   "sala": "Symposium",
+   "inizio": "17:00",
+   "fine": "20:00",
+   "tipo": "cerimonia",
+   "titolo": "Welcome cocktail and Registration",
+   "presiede": "",
+   "dettagli": "Matera, Italy.",
+   "interventi": "",
+   "indicativo": true,
+   "orarioTesto": ""
+  },
+  {
+   "giorno": "d1",
+   "sala": "Kiwifruit Innovation Festival",
+   "inizio": "17:00",
+   "fine": "20:00",
+   "tipo": "festival",
+   "titolo": "Welcome cocktail",
+   "presiede": "",
+   "dettagli": "",
+   "interventi": "",
+   "indicativo": true,
+   "orarioTesto": ""
+  },
+  {
+   "giorno": "d2",
+   "sala": "Symposium",
+   "inizio": "09:00",
+   "fine": "10:00",
+   "tipo": "cerimonia",
+   "titolo": "Opening ceremony",
+   "presiede": "",
+   "dettagli": "",
+   "interventi": "",
+   "indicativo": true,
+   "orarioTesto": ""
+  },
+  {
+   "giorno": "d2",
+   "sala": "Symposium",
+   "inizio": "10:00",
+   "fine": "17:00",
+   "tipo": "plenaria",
+   "titolo": "3 plenary sessions",
+   "presiede": "",
+   "dettagli": "",
+   "interventi": "",
+   "indicativo": true,
+   "orarioTesto": ""
+  },
+  {
+   "giorno": "d2",
+   "sala": "Symposium",
+   "inizio": "17:30",
+   "fine": "19:30",
+   "tipo": "escursione",
+   "titolo": "Excursion to the Sassi",
+   "presiede": "",
+   "dettagli": "",
+   "interventi": "",
+   "indicativo": true,
+   "orarioTesto": ""
+  },
+  {
+   "giorno": "d2",
+   "sala": "Kiwifruit Innovation Festival",
+   "inizio": "10:00",
+   "fine": "17:00",
+   "tipo": "festival",
+   "titolo": "Technical Workshop",
+   "presiede": "",
+   "dettagli": "",
+   "interventi": "",
+   "indicativo": true,
+   "orarioTesto": ""
+  },
+  {
+   "giorno": "d3",
+   "sala": "Symposium",
+   "inizio": "08:30",
+   "fine": "18:00",
+   "tipo": "escursione",
+   "titolo": "Technical excursion day",
+   "presiede": "",
+   "dettagli": "",
+   "interventi": "",
+   "indicativo": true,
+   "orarioTesto": ""
+  },
+  {
+   "giorno": "d3",
+   "sala": "Kiwifruit Innovation Festival",
+   "inizio": "09:00",
+   "fine": "18:00",
+   "tipo": "festival",
+   "titolo": "Fruit Exhibition",
+   "presiede": "",
+   "dettagli": "",
+   "interventi": "",
+   "indicativo": true,
+   "orarioTesto": ""
+  },
+  {
+   "giorno": "d4",
+   "sala": "Symposium",
+   "inizio": "09:00",
+   "fine": "18:00",
+   "tipo": "plenaria",
+   "titolo": "4 plenary sessions",
+   "presiede": "",
+   "dettagli": "",
+   "interventi": "",
+   "indicativo": true,
+   "orarioTesto": ""
+  },
+  {
+   "giorno": "d4",
+   "sala": "Symposium",
+   "inizio": "20:00",
+   "fine": "23:00",
+   "tipo": "sociale",
+   "titolo": "Social dinner",
+   "presiede": "",
+   "dettagli": "",
+   "interventi": "",
+   "indicativo": true,
+   "orarioTesto": ""
+  },
+  {
+   "giorno": "d4",
+   "sala": "Kiwifruit Innovation Festival",
+   "inizio": "09:00",
+   "fine": "17:00",
+   "tipo": "festival",
+   "titolo": "Technical Workshop",
+   "presiede": "",
+   "dettagli": "",
+   "interventi": "",
+   "indicativo": true,
+   "orarioTesto": ""
+  },
+  {
+   "giorno": "d5",
+   "sala": "Symposium",
+   "inizio": "09:00",
+   "fine": "13:00",
+   "tipo": "plenaria",
+   "titolo": "2 plenary sessions",
+   "presiede": "",
+   "dettagli": "",
+   "interventi": "",
+   "indicativo": true,
+   "orarioTesto": ""
+  },
+  {
+   "giorno": "d5",
+   "sala": "Symposium",
+   "inizio": "14:30",
+   "fine": "19:00",
+   "tipo": "escursione",
+   "titolo": "Cultural Tour",
+   "presiede": "",
+   "dettagli": "",
+   "interventi": "",
+   "indicativo": true,
+   "orarioTesto": ""
+  },
+  {
+   "giorno": "d5",
+   "sala": "Kiwifruit Innovation Festival",
+   "inizio": "09:00",
+   "fine": "13:00",
+   "tipo": "festival",
+   "titolo": "GdL SOI Actinidia Meeting",
+   "presiede": "",
+   "dettagli": "",
+   "interventi": "",
+   "indicativo": true,
+   "orarioTesto": ""
+  },
+  {
+   "giorno": "d6",
+   "sala": "Symposium",
+   "inizio": "09:00",
+   "fine": "11:00",
+   "tipo": "plenaria",
+   "titolo": "General conclusions",
+   "presiede": "",
+   "dettagli": "",
+   "interventi": "",
+   "indicativo": true,
+   "orarioTesto": ""
+  },
+  {
+   "giorno": "d6",
+   "sala": "Symposium",
+   "inizio": "11:30",
+   "fine": "13:00",
+   "tipo": "riunione",
+   "titolo": "ISHS meeting",
+   "presiede": "",
+   "dettagli": "",
+   "interventi": "",
+   "indicativo": true,
+   "orarioTesto": ""
+  },
+  {
+   "giorno": "d6",
+   "sala": "Symposium",
+   "inizio": "14:00",
+   "fine": "16:00",
+   "tipo": "riunione",
+   "titolo": "Working group and YMA",
+   "presiede": "",
+   "dettagli": "",
+   "interventi": "",
+   "indicativo": true,
+   "orarioTesto": ""
+  }
+ ]
+}
